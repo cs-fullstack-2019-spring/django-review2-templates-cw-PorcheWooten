@@ -1,3 +1,6 @@
+### POINTS: 1.5
+### KEY: Don't forget those comments!
+
 # Django review: routes/template inheritance
 
 Finish the song application by finishing the song details page that takes a dynamic URL and route it appropriately.
